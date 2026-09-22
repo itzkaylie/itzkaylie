@@ -1,4 +1,6 @@
 ## Hi there 👋
+Welcome to my page!
+I'm Yuxin Fang, a Freshman in Hunter College currently majoring in Computer Science & Psychology. 
 
 <!--
 **itzkaylie/itzkaylie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
